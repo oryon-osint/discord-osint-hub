@@ -28,7 +28,7 @@ The idea behind the server is to share knowledge about advanced investigation te
 
 https://discord.gg/FCe3UNf8z3
 
-> ORYON OSINT ⓗⓤⓑ [![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
+> [![dc-logo](https://i.ibb.co/GPwN83t/Discord-Logo-Color.png)](https://discord.gg/FCe3UNf8z3)
 
 # Author
 
